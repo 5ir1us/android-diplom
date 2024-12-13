@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FDFDFD</color>
+    <color name="primaryTextColor">#1A1B22</color>
+    <color name="searchBarBackground">E6E8EB</color>
+    <color name="searchBarTextColor">#AEAFB4</color>
+    <color name="textInputBackground">#E6E8EB</color>
+    <color name="hintTextColor">#AEAFB4</color>
+
+    <color name="black">#1A1B22</color>
+    <color name="white">#FDFDFD</color>
     <color name="grey">#AEAFB4</color>
     <color name="white_universal">#FDFDFD</color>
     <color name="black_universal">#1A1B22</color>
 <!--    color_changes-->
-    <color name="day_night">#FDFDFD</color>
-    <color name="night_day">#1A1B22</color>
+    <color name="blue">#3772E7</color>
+    <color name="lightGrey">#E6E8EB</color>
 </resources>

@@ -1,7 +1,16 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+<resources>
     <style name="Base.Theme.PracticumAndroidDiploma" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <color name="background">#FDFDFD</color>
+        <color name="primaryTextColor">#1A1B22</color>
+        <color name="searchBarBackground">E6E8EB</color>
+        <color name="searchBarTextColor">#AEAFB4</color>
+        <color name="textInputBackground">#E6E8EB</color>
+        <color name="hintTextColor">#AEAFB4</color>
+
+        <color name="black">#1A1B22</color>
+        <color name="white">#FDFDFD</color>
+        <color name="grey">#AEAFB4</color>
+        <color name="blue">#3772E7</color>
+        <color name="lightGrey">#E6E8EB</color>
     </style>
 </resources>

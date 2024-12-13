@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--    color_changes-->
-    <color name="day_night">#1A1B22</color>
-    <color name="night_day">#FDFDFD</color>
+    <color name="background">#1A1B22</color>
+    <color name="primaryTextColor">#FDFDFD</color>
+    <color name="searchBarBackground">#FDFDFD</color>
+    <color name="searchBarTextColor">#AEAFB4</color>
+    <color name="textInputBackground">#AEAFB4</color>
+    <color name="hintTextColor">#AEAFB4</color>
+
+    <color name="black">#1A1B22</color>
+    <color name="white">#FDFDFD</color>
+    <color name="grey">#AEAFB4</color>
+    <color name="blue">#3772E7</color>
+    <color name="lightGrey">#E6E8EB</color>
 </resources>
